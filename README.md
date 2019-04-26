@@ -17,7 +17,7 @@ NW.exe -e sequence1 sequence2 matrix >> ../result/result.txt
 
 sequence1, sequence2 are the protein sequences to be aligned, while the matrix is the align matrix used, such as BLOSUM45.
 
->> ../result/result.txt means that the result is redirected to the result.txt in the result directory.
+\>> ../result/result.txt means that the result is redirected to the result.txt in the result directory.
 
 For example: 
 
